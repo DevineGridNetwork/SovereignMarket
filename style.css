@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #111;
+  color: #fff;
+}
+.app-container {
+  padding: 20px;
+  max-width: 480px;
+  margin: auto;
+}
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+header h1 {
+  font-size: 2em;
+  color: gold;
+}
+header h2 {
+  font-size: 1.1em;
+  color: #ccc;
+}
+.market-stats {
+  background: #222;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+.ticker-container {
+  background: #1a1a1a;
+  padding: 15px;
+  border-radius: 8px;
+}
+.ticker-container ul {
+  list-style: none;
+  padding-left: 0;
+}
+.ticker-container li {
+  margin: 5px 0;
+  color: #0f0;
+}
+.ipo-signup {
+  text-align: center;
+  margin-top: 30px;
+}
+.btn {
+  display: inline-block;
+  background: gold;
+  color: #000;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 0.8em;
+  color: #888;
+}
